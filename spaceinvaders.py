@@ -1,5 +1,4 @@
 #Space Invaders
-#Dennis Sperzel
 #05.01.2019
 
 import turtle
